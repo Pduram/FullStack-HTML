@@ -1,0 +1,36 @@
+.spfc{
+    color: purple;
+    font: 15pt;
+}
+.ola:hover{
+    color:rgb(72, 255, 0);
+}
+.ola{
+    color: blue;
+}
+.wolverine{
+    color: rgb(24, 0, 243);
+    text-align: center;
+}
+.wolverine:hover{
+    color: rgb(0, 255, 21);
+}
+#ciclope{
+    color: rgb(0, 238, 255);
+}
+.jean_grey{
+    color: blueviolet;
+}
+.jean_grey:hover{
+    color: aqua;
+}
+body{
+   background-color: gray;
+}
+.fera{
+    text-align: center;
+}
+table,td,tr{
+    margin-right: auto;
+    margin-left: auto;
+}
