@@ -1,0 +1,11 @@
+table{
+    border: 2px solid rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+}
+td{
+    border: 2px solid rgb(0, 0, 0);
+}
+.links{
+    color: blue;
+}

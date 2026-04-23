@@ -51,7 +51,7 @@ var bola={
     raio: 50,
     img: new Image(),
     desenha: function(){
-        this.img.src = 'uno henrique.jpg';
+        this.img.src = 'penis.png';
         ctx.beginPath();
         ctx.drawImage(this.img, this.x-bola.raio, this.y-bola.raio, 2*this.raio, 2*this.raio);
         ctx.closePath();
